@@ -1,5 +1,9 @@
 # Ts Node Prisma Example
 
+Prisma is an orm that allows flexibel database access.
+
+[Prisma >](https://prisma.io)
+
 ## Commands
 
 ### Update scheme
