@@ -13,3 +13,9 @@ npx prisma migrate dev
 # or
 npx prisma db push
 ```
+
+### Run example
+
+```ps1
+npx ts-node index.ts
+```
